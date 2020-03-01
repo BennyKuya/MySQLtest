@@ -1,4 +1,4 @@
-create database mysql_shiyan;
+create database mysql_shiyan character set UTF8;
 
 use mysql_shiyan;
 
